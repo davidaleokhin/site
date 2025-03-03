@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://davidaleokhin.github.io/sitemap.xml
